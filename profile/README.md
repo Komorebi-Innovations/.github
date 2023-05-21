@@ -3,7 +3,8 @@
 `
 Komorebi Innovations is a non-commercial, open-source project that invites you to experience the beauty of nature through our unique, interactive designs. Our products are freely available and are designed to inspire, not to profit. We believe in the power of shared creativity and invite you to join us in exploring the enchanting interplay of light and shadow.
 
-[![Policy](https://github.com/Komorebi-Innovations/Policy/Policy.md)](policy.md)
+Genreted by AI : Bing Image Creator, 2023 Microsoft
+[Policy](https://github.com/Komorebi-Innovations/Policy/Policy.md)](policy.md)
 
 `
 ## 1. Product Overview
