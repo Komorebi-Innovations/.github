@@ -4,7 +4,6 @@
   <img src="https://user-images.githubusercontent.com/25856410/239756334-0d5a8c44-8708-4ed3-9242-05e7cf893e79.JPG" width="200" />
   <img src="https://user-images.githubusercontent.com/25856410/239756337-ecdef897-68f4-4133-9752-d678c7fd38f7.JPG" width="200" />
   <img src="https://user-images.githubusercontent.com/25856410/239757937-090e23bd-ac65-4342-9c47-9b9ab60768bf.jpeg" width="200" />
-  <img src="https://user-images.githubusercontent.com/25856410/239757995-295df85a-2227-4acb-9dca-b394fb5aa9da.jpeg" width="200" />
   <img src="https://user-images.githubusercontent.com/25856410/239758042-4d707222-7ff2-4373-9a8d-2451303df689.jpeg" width="200" />
 </p>
 
