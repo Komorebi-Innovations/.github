@@ -19,7 +19,10 @@ Komorebi Innovations is a non-commercial, open-source project that invites you t
   <img src="https://user-images.githubusercontent.com/25856410/239758418-91d3adc2-e7bc-4138-99b3-17a4d72e8213.JPG" width="300" />
 </p>
 
-Komorebi Innovations is an innovative fashion brand that recreates the beauty of nature. Our products are inspired by the Japanese phenomenon of 'Komorebi', which refers to the scattering of sunlight as it passes through the leaves of trees, creating a pattern of light and shadow. Our goal is to recreate this captivating interplay of light and shadow through our unique interactive designs.
+Komorebi Innovations is an innovative fashion brand that recreates the beauty of nature. Our products are inspired by the Japanese phenomenon of **'Komorebi'**, which refers to the scattering of sunlight as it passes through the leaves of trees, creating a pattern of light and shadow. Our goal is to recreate this captivating interplay of light and shadow through our unique interactive designs.
+
+> 木漏れ日 (komorebi): This is a compound of 木 (ko, “tree”), 漏れ (more, “leaking, coming through”), and 日 (hi, “sun; sunlight”). The term refers to sunlight streaming through the trees.
+[木漏れ日 (komorebi) on Wiktionary](https://en.wiktionary.org/wiki/%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5#:~:text=%E6%9C%A8%E6%BC%8F%E3%82%8C%E6%97%A5%20(komorebi)%3A%20sunlight%20streaming%20through%20the%20trees.)
 
 ## 2. Product Vision
 
