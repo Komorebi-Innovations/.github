@@ -55,14 +55,14 @@ The mathematical modeling of this interaction system can consider the following 
 6. Reflection coefficient (R)
 7. Shadow projection onto a surface (e.g., skin or fabric) (S)
 
-The relationships between these functions can be described mathematically using the Fresnel equations, which govern the reflection and refraction of light at the interface between two media with different refractive indices. The equations can be expressed as follows:
+The relationships between these functions can be described mathematically using the Fresnel equations, which govern the reflection and refraction of light at the interface between two media with different refractive indices.
 
+The equations can be expressed as follows:
 $$
 R = \left(\frac{n_1 \cos \theta_1 - n_0 \cos \theta_2}{n_1 \cos \theta_1 + n_0 \cos \theta_2}\right)^2,
 T = 1 - R,
 \theta_2 = \arcsin\left(\frac{n_0 \sin \theta_1}{n_1}\right)
 $$
-
 
 
 The relationships between these functions can be described mathematically using the Fresnel equations, which govern the reflection and refraction of light at the interface between two media with different refractive indices.
