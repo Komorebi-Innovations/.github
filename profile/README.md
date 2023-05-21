@@ -17,7 +17,7 @@ Komorebi Innovations is a non-commercial, open-source project that invites you t
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/25856410/239758418-91d3adc2-e7bc-4138-99b3-17a4d72e8213.JPG" width="300" />
-</p> **Komorebi**
+</p>
 
 Komorebi Innovations is an innovative fashion brand that recreates the beauty of nature. Our products are inspired by the Japanese phenomenon of 'Komorebi', which refers to the scattering of sunlight as it passes through the leaves of trees, creating a pattern of light and shadow. Our goal is to recreate this captivating interplay of light and shadow through our unique interactive designs.
 
