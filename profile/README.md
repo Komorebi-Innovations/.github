@@ -1,5 +1,7 @@
 # Komorebi Innovations
+
 Combining AI and the beauty of nature to create innovative fashion experiences.
+
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/25856410/239756334-0d5a8c44-8708-4ed3-9242-05e7cf893e79.JPG" width="200" />
