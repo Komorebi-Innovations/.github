@@ -2,6 +2,9 @@
 
 `
 Komorebi Innovations is a non-commercial, open-source project that invites you to experience the beauty of nature through our unique, interactive designs. Our products are freely available and are designed to inspire, not to profit. We believe in the power of shared creativity and invite you to join us in exploring the enchanting interplay of light and shadow.
+
+[![Policy](policy.md)](policy.md)
+
 `
 ## 1. Product Overview
 
